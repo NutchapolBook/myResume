@@ -1,0 +1,52 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+h2{
+margin: 4px 0;
+}
+
+.top-left-colunm {
+  position: relative;
+  background-color: #b3b3b3b9;
+}
+
+.name {
+  text-align: center;
+  color: black;
+  font-size: 32px;
+  padding: 10px;
+}
+
+.profile-picture {
+  max-width: 100%;
+  height: auto;
+}
+
+.margin-right-info {
+  margin-right: 10px!important;
+}
+
+.margin-right-topic {
+  margin-right: 10px!important;
+}
+
+.h2-padding {
+  padding-top: 10px!important;
+}
+
+.sub-topic{
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.timeline{
+  font-size: 16px;
+}
